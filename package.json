@@ -1,0 +1,20 @@
+{
+  "name": "projeto-bd-api-notes-sqlite3-nodejs",
+  "version": "1.0.0",
+  "description": "API de Notas, desenvolvido com Nodejs e Sqlite3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Aleff Junio Silva Lins Lira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
