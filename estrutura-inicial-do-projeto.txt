@@ -1,0 +1,8 @@
+src
+  server.js
+  routes
+  controllers
+  utils
+  database
+    sqlite
+    migrations
