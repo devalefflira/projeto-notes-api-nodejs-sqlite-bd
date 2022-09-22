@@ -27,5 +27,7 @@
 - Body Params
 - Organizar a estrutura do projeto
 - Controllers
+- Users Controller
+- HTTP Codes / Status Codes
 
 Última atualização do código em: 21/09/2022, as 17:39.
