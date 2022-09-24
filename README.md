@@ -31,5 +31,7 @@
 - HTTP Codes / Status Codes
 - Middlewares
 - Utilizando Middlewares
+- App Error
+-
 
 Última atualização do código em: 21/09/2022, as 17:39.
