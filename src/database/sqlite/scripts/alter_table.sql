@@ -1,0 +1,11 @@
+ALTER TABLE users
+RENAME TO clients
+
+ALTER TABLE users
+ADD status VARCHAR
+
+ALTER TABLE users
+RENAME COLUMN status TO active
+
+ALTER TABLE users
+DROP COLUMN active

@@ -42,5 +42,8 @@
 - Conectando com o banco de dados
 - SGBD com Beekeper
 - Criando tabela de usuário
+- Introdução a linguagem SQL
+- Comandos DDL - Alter
+- Comandos DML
 
 Última atualização do código em: 24/09/2022, as 23:00.
