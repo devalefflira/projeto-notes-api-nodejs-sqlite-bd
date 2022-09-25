@@ -33,5 +33,13 @@
 - Utilizando Middlewares
 - App Error
 - Tratamento de Exceções
+- Configurando o Insomnia
 
-Última atualização do código em: 21/09/2022, as 17:39.
+### com Banco de Dados / SQLite
+
+- O que é um banco de dados
+- Estrutura do banco de dados
+- Conectando com o banco de dados
+- SGBD
+
+Última atualização do código em: 24/09/2022, as 23:00.
