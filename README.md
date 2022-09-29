@@ -47,5 +47,6 @@
 - Comandos DML
 - CRUD - Insert, Select, Update, Delete
 - Migrations
+- SELECT
 
 Última atualização do código em: 24/09/2022, as 23:00.
